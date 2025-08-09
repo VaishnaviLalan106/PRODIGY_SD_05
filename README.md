@@ -7,18 +7,18 @@ Using powerful libraries like **requests** and **BeautifulSoup**, you can scrape
 ---
 
 ## ✨ Features
--Fetches webpage content using HTTP requests
--Parses HTML content to extract required data
--Handles pagination or multiple pages (if implemented)
--Saves scraped data to CSV files for further analysis
--Easy to customize for different websites or data types
+    -Fetches webpage content using HTTP requests
+    -Parses HTML content to extract required data
+    -Handles pagination or multiple pages (if implemented)
+    -Saves scraped data to CSV files for further analysis
+    -Easy to customize for different websites or data types
 
 ---
 
 ## 🛠️ Technologies Used
--🐍 Python 3.x
--📡 requests
--🍲 BeautifulSoup4
+    -🐍 Python 3.x
+    -📡 requests
+    -🍲 BeautifulSoup4
 
 ---
 
